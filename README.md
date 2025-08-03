@@ -1,8 +1,7 @@
 # Prodigy InfoTech Data Science Internship Task 1:
-<br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/ds1.png"   >
 
-Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy Infotech`. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
+
+Welcome to my submission for Task 1 of the Data Science Internship .In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 
 ## Dataset
 
@@ -32,9 +31,3 @@ In conclusion, this EDA process provided valuable insights into the distribution
 
 Thank you for reviewing my submission!
 
-## 📬 Contact
-
-For any inquiries or feedback regarding this project, please contact:
-
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
-- Email: shantanupandey223@gmail.com
