@@ -7,8 +7,7 @@ Welcome to my submission for Task 1 of the Data Science Internship .In this task
 
 The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
 
-## Tools and Libraries used
-- Jupyter notebook
+## Tools and Libraries use
 - Pandas
 - Numpy
 - Matplotlip & Seaborn for visualization
